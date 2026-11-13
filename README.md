@@ -78,5 +78,5 @@ Las estimaciones financieras utilizan la comisión hipotética del 0,5 % indicad
 
 Durante el desarrollo de esta prueba utilicé ChatGPT y Codex como herramientas de apoyo para trabajar con SQL y Python, desarrollar y mejorar scripts, resolver dudas técnicas y organizar los resultados.
 
-Estas herramientas también me ayudaron a revisar el código, detectar posibles inconsistencias, validar cálculos y mejorar la claridad de las explicaciones.
+En estas herramientas me apoyé para revisar el código, detectar posibles inconsistencias, validar cálculos y mejorar la claridad de las explicaciones.
 
