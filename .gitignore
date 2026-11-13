@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+node_modules/
+*.log
+.env
+.env.*
+analysis_results.json
+*.inspect.ndjson
