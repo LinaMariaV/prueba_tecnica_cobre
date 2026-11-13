@@ -8,3 +8,4 @@ node_modules/
 .env.*
 analysis_results.json
 *.inspect.ndjson
+~$*
